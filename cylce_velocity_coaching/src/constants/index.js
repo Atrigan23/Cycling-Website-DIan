@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Unleash Your Potential",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    "Embrace the Ride with Adaptive Race Plans - Tailored Strategies for Every Cyclist, Every Course, Every Victory.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Unleash Your Uniqueness",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    " Elevate Your Ride with Tailored Training Plans Crafted Just for You - Where Personalization Meets Performance, and Every Cyclist Finds Their Extraordinary Edge.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Race Ahead with Precision",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+    "Shift Gears with Swift Coach-Client Connections and Turbocharged Team Meetings Every Week, Ensuring Seamless Strategies and Instant Acceleration Towards Your Cycling Goals.",
   },
 ];
 
